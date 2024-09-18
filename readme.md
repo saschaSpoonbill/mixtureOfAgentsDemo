@@ -27,8 +27,4 @@ Both programs use multiple language models to answer a user query, then synthesi
    TOGETHER_API_KEY=your_api_key_here
    ```
 
-   **Note:** You will likely need a paid plan from Together to access the required models and API functionality.
-
-## Running the Programs
-
-To run either program, use the following command in your terminal:
+   **Note:** You will likely need a paid plan from Together to access the required API functionality.
