@@ -1,4 +1,4 @@
-# Advanced Mixture of Agents (MoA) Implementation
+# Mixture of Agents (MoA) Implementation Demo
 
 This repository contains two Python scripts demonstrating the implementation of the Mixture of Agents (MoA) approach using the Together API.
 
